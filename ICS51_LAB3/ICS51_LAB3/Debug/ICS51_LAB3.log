@@ -1,0 +1,14 @@
+﻿Build started 3/11/2016 5:45:02 PM.
+     1>Project "C:\Users\Brian\Documents\Dropbox\Projects\ICS51_LAB3\ICS51_LAB3\ICS51_LAB3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /FAs /Fa"Debug\\" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "lab3-testing.c"
+         lab3-testing.c
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Brian\Documents\Dropbox\Projects\ICS51_LAB3\Debug\ICS51_LAB3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Brian\Documents\Dropbox\Projects\ICS51_LAB3\Debug\ICS51_LAB3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Brian\Documents\Dropbox\Projects\ICS51_LAB3\Debug\ICS51_LAB3.lib" /MACHINE:X86 "Debug\lab3-testing.obj"
+         Debug\lab3.obj
+         ICS51_LAB3.vcxproj -> C:\Users\Brian\Documents\Dropbox\Projects\ICS51_LAB3\Debug\ICS51_LAB3.exe
+     1>Done Building Project "C:\Users\Brian\Documents\Dropbox\Projects\ICS51_LAB3\ICS51_LAB3\ICS51_LAB3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.30
